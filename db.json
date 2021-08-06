@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "002",
+      "firstName": "Salman khan",
+      "age": 48,
+      "companyId": "2"
+    },
+    {
+      "id": "003",
+      "firstName": "Salami",
+      "age": 35,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Walex",
+      "age": 45,
+      "id": "PsSyhGO"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Microsoft",
+      "description": "software"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "IOT"
+    },
+    {
+      "id": "3",
+      "name": "Alibaba",
+      "description": "eCommerce"
+    }
+  ]
+}
